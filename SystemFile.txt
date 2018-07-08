@@ -3,3 +3,4 @@
 // 16bit setting, 1kHz, amplified->int16크기
 
 2018.07.08 : 32bit setting, header chunkSize 및int32_t 변경
+triangle, square wave..... 및 int24 bit 수정중

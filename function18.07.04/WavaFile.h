@@ -1,17 +1,5 @@
 #pragma once
-#define _CRT_SECURE_NO_WARNINGS
-#define WAVE_FORMAT_UNKNOWN 0X0000; 
 #define WAVE_FORMAT_PCM 0X0001; 
-#define WAVE_FORMAT_MS_ADPCM 0X0002; 
-#define WAVE_FORMAT_IEEE_FLOAT 0X0003; 
-#define WAVE_FORMAT_ALAW 0X0006;
-#define WAVE_FORMAT_MULAW 0X0007; 
-#define WAVE_FORMAT_IMA_ADPCM 0X0011; 
-#define WAVE_FORMAT_YAMAHA_ADPCM 0X0016; 
-#define WAVE_FORMAT_GSM 0X0031; 
-#define WAVE_FORMAT_ITU_ADPCM 0X0040; 
-#define WAVE_FORMAT_MPEG 0X0050;
-#define WAVE_FORMAT_EXTENSIBLE 0XFFFE; 
 
 typedef struct {
 	unsigned char ChunkID[4]; // Contains the letters "RIFF" in ASCII form unsigned 
