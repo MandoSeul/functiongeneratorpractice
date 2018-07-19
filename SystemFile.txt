@@ -4,3 +4,7 @@
 
 2018.07.08 : 32bit setting, header chunkSize 및int32_t 변경
 triangle, square wave..... 및 int24 bit 수정중
+
+2016.07.20 : 거의 2주만에...다시 시작한 함수발생기....
+사각파등 sin 이외의 여러가지 파형작업 및 24 bit 수정 완료
+컴파일은 잘 되는데 wav파일에서 소리가 나지 않는다 ㅠㅠ
